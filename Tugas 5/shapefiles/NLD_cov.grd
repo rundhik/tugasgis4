@@ -1,0 +1,27 @@
+[general] 
+creator=R package 'raster' 
+created= 2011-11-12 15:00:48 
+[georeference] 
+nrows= 348 
+ncols= 480 
+xmin= 3.3 
+ymin= 50.7 
+xmax= 7.3 
+ymax= 53.6 
+projection= +proj=longlat +ellps=WGS84 
+[data] 
+datatype= INT1U 
+byteorder= little 
+nbands= 1 
+bandorder= BIL 
+categorical= FALSE 
+minvalue= 2 
+maxvalue= 22 
+nodatavalue= -9999 
+[legend] 
+legendtype=  
+values=  
+color=  
+[description] 
+layername= NLD_cov 
+history=  
