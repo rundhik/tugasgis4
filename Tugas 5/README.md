@@ -10,7 +10,7 @@
  	<li>Merapkan layer5 dari shapefile rails untuk menggambar rute rel kereta api</li>
 </ul>
 Kendala : memberi batas wilayah sesuai provinsi belum berhasil karena kombinasi sintaks Expression masih salah
-<h2>Membuat Poin Symbolizer pada Peta</h2>
+<h4>Membuat Poin Symbolizer pada Peta</h4>
 <ul>
  	<li>Mendownload data ESRI shapefiles Kecamatan Indonesia dari <a title="Shapefile Kecamatan Indonesia" href="http://www.info-geospasial.com/2015/10/data-shp-seluruh-indonesia.html" target="_blank" rel="noopener">sini</a>.</li>
  	<li>Membuat Layer1 kecamatan Indonesia tanpa garis tepi</li>
