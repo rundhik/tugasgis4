@@ -15,5 +15,7 @@ Kendala : memberi batas wilayah sesuai provinsi belum berhasil karena kombina
  	<li>Mendownload data ESRI shapefiles Kecamatan Indonesia dari <a title="Shapefile Kecamatan Indonesia" href="http://www.info-geospasial.com/2015/10/data-shp-seluruh-indonesia.html" target="_blank" rel="noopener">sini</a>.</li>
  	<li>Membuat Layer1 kecamatan Indonesia tanpa garis tepi</li>
  	<li>Menyalin koordinat Pantai Kenjeran dari GoogleMaps dan diletakkan pada MapDatasource class Feature POINT</li>
+ <li>Mendownload icon pantai untuk map <a title="Icon Pantai" href="https://www.flaticon.com/free-icon/beach_272859#term=tourism&page=1&position=61" target="_blank" rel="noopener">di sini</a></li>
+ <li>Penulisan koordinat di POINT pada tugas dibalik dari koordinat dari yang diambil pada GoogleMaps</li>
 </ul>
 Kendala : TextSymbolizer tidak muncul, Attribut sudah disesuaikan dengan data shapefile yaitu 'Kecamatan' namun tidak bisa muncul di peta
